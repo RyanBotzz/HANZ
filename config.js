@@ -1,4 +1,4 @@
-gc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+gc1 = 'https://chat.whatsapp.com/JCgXlfkzK6p6xIYk5ij0Pa'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'] // ganti jadi group lu
@@ -46,7 +46,7 @@ xteamkey = 'cristian9407'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Done`
-namakontak1 = 'Owner Tio'
+namakontak1 = 'Owner Hanz'
 namakontak2 = 'Nomor Bot'
 
 //kasihcaption = `Done`
